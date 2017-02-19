@@ -1,0 +1,101 @@
+<ul>
+									<li>
+									<div class="wrapper pad_bot2">
+										<figure class="left marg_right1"><img src="images/page2_img1.jpg" alt=""></figure>
+										<p class="pad_bot2"><strong>Dr. Balwinder Singh</strong></p>
+										<p class="pad_bot2">M.B.B.S., M.I.M.A.</p>
+										<p class="pad_bot2">Medical Superintendent</p>
+										<p class="pad_bot3">Everyday</p>
+									</div>
+			
+									<div class="wrapper pad_bot2">
+										<figure class="left marg_right1"><img src="images/page2_img1.jpg" alt=""></figure>
+										<p class="pad_bot2"><strong>Dr. Kuldeep Singh</strong></p>
+										<p class="pad_bot2">M.B.B.S.</p>
+										<p class="pad_bot2">Medical Officer</p>
+										<p class="pad_bot3">Everyday</p>
+									</div>
+									
+									<div class="wrapper pad_bot2">
+										<figure class="left marg_right1"><img src="images/page2_img1.jpg" alt=""></figure>
+										<p class="pad_bot2"><strong>Dr. Harjit Kaur</strong></p>
+										<p class="pad_bot2">M.B.B.S.,ex. P.C.M.S.I.</p>
+										<p class="pad_bot2">Gyane, General</p>
+										<p class="pad_bot3">Everyday</p>
+									</div>
+									
+									<div class="wrapper pad_bot2">
+										<figure class="left marg_right1"><img src="images/page2_img1.jpg" alt=""></figure>
+										<p class="pad_bot2"><strong>Dr. Harminder Singh</strong></p>
+										<p class="pad_bot2">M.B.B.S., MS ortho.</p>
+										<p class="pad_bot2">Orthopaedic Surgeon</p>
+										<p class="pad_bot3">Every thursday 2pm to 3pm</p>
+									</div>
+									</li>
+									<li>
+									<div class="wrapper pad_bot2">
+										<figure class="left marg_right1"><img src="images/page2_img1.jpg" alt=""></figure>
+										<p class="pad_bot2"><strong>Dr. Mandeep Sood</strong></p>
+										<p class="pad_bot2">M.B.B.S., MS</p>
+										<p class="pad_bot2">Eye Specialist</p>
+										<p class="pad_bot3">Every thursday</p>
+									</div>
+									
+									<div class="wrapper pad_bot2">
+										<figure class="left marg_right1"><img src="images/page2_img1.jpg" alt=""></figure>
+										<p class="pad_bot2"><strong>Dr. Lallan Mishra</strong></p>
+										<p class="pad_bot2">M.B.B.S., MS (Gen. Surgery)</p>
+										<p class="pad_bot2">General surgeon and operator</p>
+										<p class="pad_bot3">Everyday</p>
+									</div>
+									
+									<div class="wrapper pad_bot2">
+										<figure class="left marg_right1"><img src="images/page2_img1.jpg" alt=""></figure>
+										<p class="pad_bot2"><strong>Dr. Anand</strong></p>
+										<p class="pad_bot2">M.B.B.S., D.D.V.D.</p>
+										<p class="pad_bot2">Skin Specialist</p>
+										<p class="pad_bot3">Everyday</p>
+									</div>
+									
+									<div class="wrapper pad_bot2">
+										<figure class="left marg_right1"><img src="images/page2_img1.jpg" alt=""></figure>
+										<p class="pad_bot2"><strong>Dr. Thomas</strong></p>
+										<p class="pad_bot2">M.B.B.S., MS (ENt)</p>
+										<p class="pad_bot2">Nose, Ear, Neck Specialist</p>
+										<p class="pad_bot3">Every Friday, 10am to 1pm</p>
+									</div>
+									</li>
+									<li>
+									<div class="wrapper pad_bot2">
+										<figure class="left marg_right1"><img src="images/page2_img1.jpg" alt=""></figure>
+										<p class="pad_bot2"><strong>Dr. Harpal singh</strong></p>
+										<p class="pad_bot2">M.B.B.S., Med (PAED.)</p>
+										<p class="pad_bot2">PAED.</p>
+										<p class="pad_bot3">Friday, 10am to 1pm</p>
+									</div>
+									
+									<div class="wrapper pad_bot2">
+										<figure class="left marg_right1"><img src="images/page2_img1.jpg" alt=""></figure>
+										<p class="pad_bot2"><strong>Dr. Dolli</strong></p>
+										<p class="pad_bot2">BPT, MIAP</p>
+										<p class="pad_bot2">Physiotherapist</p>
+										<p class="pad_bot3">Everyday</p>
+									</div>
+									
+									<div class="wrapper pad_bot2">
+										<figure class="left marg_right1"><img src="images/page2_img1.jpg" alt=""></figure>
+										<p class="pad_bot2"><strong>Dr. Jatinder Rattan</strong></p>
+										<p class="pad_bot2">BDS</p>
+										<p class="pad_bot2">Dental Surgeon</p>
+										<p class="pad_bot3">Everyday</p>
+									</div>
+									
+									<div class="wrapper pad_bot2">
+										<figure class="left marg_right1"><img src="images/page2_img1.jpg" alt=""></figure>
+										<p class="pad_bot2"><strong>Dr. Karamjeet Singh</strong></p>
+										<p class="pad_bot2">B M S</p>
+										<p class="pad_bot2">EMO (Emergency Medical Officer)</p>
+										<p class="pad_bot3">Everyday</p>
+									</div>
+									</li>
+									</ul>

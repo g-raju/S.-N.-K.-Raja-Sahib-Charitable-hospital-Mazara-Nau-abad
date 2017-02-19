@@ -1,0 +1,17 @@
+
+.col1, .col2, .col3, .cols { float:left;}
+
+.col_1{ display:block;margin-left:25px;float:left;text-align:left;width:50%;}
+.col_2{ display:block;margin-right:25px;float:right;text-align:right;}
+
+.col_3{ display:block;float:left;text-align:left;}
+.col1{ width:330px; float:left;}
+.col2{width:240px;float:left;}
+
+/*======= index.html =======*/
+/*======= index-1.html =======*/
+/*======= index-2.html =======*/
+/*======= index-3.html =======*/
+/*======= index-4.html =======*/
+/*======= index-5.html =======*/
+/*======= index-6.html =======*/

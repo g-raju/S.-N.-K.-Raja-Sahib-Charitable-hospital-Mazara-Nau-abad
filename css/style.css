@@ -1,0 +1,128 @@
+/* Getting the new tags to behave */
+article, aside, audio, canvas, command, datalist, details, embed, figcaption, figure, footer, header, hgroup, keygen, meter, nav, output, progress, section, source, video {display:block}
+mark, rp, rt, ruby, summary, time {display:inline;}
+/* Left & Right alignment */
+.left  {float:left}
+.right  {float:right}
+.wrapper {width:100%;display:block;}
+/* Global properties ======================================================== */
+body {background:#fff;border:0;font:14px Arial, Helvetica, sans-serif;color:#4d4d4d;line-height:25px;min-width:960px;overflow:hidden}
+.ic {border:0;float:right;background:#fff;color:#f00;width:50%;line-height:10px;font-size:10px;margin:-220% 0 0 0;overflow:hidden;padding:0}
+.css3{border-radius:8px;-moz-border-radius:8px;-webkit-border-radius:8px;box-shadow:0 0 4px rgba(0, 0, 0, .4);-moz-box-shadow:0 0 4px rgba(0, 0, 0, .4);-webkit-box-shadow:0 0 4px rgba(0, 0, 0, .4);position:relative}
+/* Global Structure ============================================================= */
+.main {	margin:0 auto;width:960px;overflow:hidden}
+.block {height:131px}
+.extra {min-height:100%;height:auto !important;height:100%;margin:0 auto -131px;position:relative;background:url(../images/bg_top.png) top repeat-x}
+body, html {height:100%}
+.bg1 {background:#fff;position:relative;z-index:1;height:131px}
+.box {width:100%;overflow:hidden;padding-top:30px;padding-bottom:30px;position:relative}
+.spinner {position:absolute;z-index:99;background:url(../images/loader.gif) 50% 50% no-repeat #fff;width:100%;height:100%;top:0;left:0}
+.bg_spinner {width:100px;height:13px;position:absolute;z-index:2;background:url(../images/loader2.gif) 0 0 no-repeat;top:10px;left:80px}
+#bgSlider  img {left:auto !important;right:0 !important}
+.pagination {position:relative;padding:30px 0 0px 48px;float:left}
+.pagination li {float:left;padding-right:4px;font-size:18px;color:#434343;line-height:1.2em;letter-spacing:-1px}
+.pagination a {display:inline-block;background:url(../images/buttons.png) right 5px no-repeat;width:20px;height:25px;text-align:center;color:#08afee;text-decoration:none;text-align:center}
+.pagination a:hover, .pagination .current a {background-position:left;color:#fff;text-decoration:none}
+/* ============================= main layout ====================== */
+a {color:#4d4d4d;outline:none;text-decoration:none}
+a:hover {text-decoration:none}
+h2 {font-size:36px;color:#08afee;line-height:1.2em;padding:17px 0 16px 0;letter-spacing:-2px}
+h3 {font-size:24px;font-weight:lighter;color:#08afee;line-height:1.2em;padding:10px 0 10px 0;letter-spacing:-1px}
+h4 {font-size:36px;color:#08afee;font-weight:lighter;line-height:1.2em;letter-spacing:-2px}
+h5 {font-size:18px;font-weight:normal;}
+p {padding-bottom:25px}
+/* ============================= header ====================== */
+header {width:270px;float:left;z-index:999;}
+#logo {display:block;text-indent:-9999px;background:url(../images/logo.png) 0 0 no-repeat;width:270px;height:270px}
+
+
+/* ============================= content ====================== */
+#content > ul {width:690px;float:left;height:950px;position:relative;z-index:100;}
+#content > ul > li {position:relative;height:950px;width:100%;bottom:0}
+#content > ul > #page_About {height:100%;}
+
+.box1 {background:url(../images/content_bg.png) repeat; margin-left:3px;width:100%;height:100%;position:absolute;bottom:0;left:0}
+.inner {padding:25px 60px;position:relative}
+.inner1{padding:25px 30px;position:relative}
+.mar_top{margin-top:50px;}
+.pad_left1 {padding-left:50px}
+.pad_left2 {padding-left:25px}
+.pad_bot2 {padding-bottom:10px}
+.pad_bot1 {padding-bottom:20px}
+.pad_bot3 {padding-bottom:40px}
+.mar_up1 {margin-top:20px}
+.marg_right1 {margin-right:20px}
+.marg_right2{margin-right:50px;}
+#page_Prices .pad_bot1 {padding-bottom:20px}
+.quot {background:url(../images/quot1.png) 0 8px no-repeat;padding-left:18px;font-size:17px;line-height:20px;color:#7f7f7f;font-style:italic;text-shadow:1px 0 #a3a3a3, -1px 0 #e8e8e8;padding-top:3px;padding-bottom:12px}
+.quot img {display:inline-block;padding-top:4px}
+.color1 {color:#08afee}
+.link1 {color:#08afee;text-decoration:none}
+.link1:hover {text-decoration:underline} 
+.scroll {margin-bottom:10px;overflow:hidden}
+.scroll ul {line-height:1.5;}
+.scrollheight{height:130px !important;}
+.sheight{height:650px !important}
+.prev, .next {float:left;width:31px;height:31px;margin-right:9px;position:relative;background:url(../images/markers.gif) 0 0 no-repeat}
+.next {background-position:right 0}
+.prev span, .next span {position:absolute;top:0;left:0;width:100%;height:100%;background:url(../images/markers.gif) left bottom no-repeat}
+.next span {background-position:right bottom}
+.close {position:absolute;top:20px;right:20px;background:url(../images/close.gif) 0 0 no-repeat;width:15px;height:15px}
+.close span {position:absolute;width:100%;height:100%;top:0;left:0;background:url(../images/close_active.gif) 0 0 no-repeat}
+#content figure {padding-top:3px}
+.table {border-top:1px solid #a2c0c9; border-left:1px solid #b8c9ce;margin-top:3px;margin-left:2px;margin-bottom:15px}
+.table td, .table th {width:80px;height:41px;text-align:center;vertical-align:middle;border-bottom:1px solid #b3bfc4;border-right:1px solid #b3bfc4;color:#40626d;line-height:14px}
+.table th {background:url(../images/table_bg1.png) repeat}
+.table th.bg {background:url(../images/table_bg2.png) repeat}
+.table td.bg {background:url(../images/table_bg3.png) repeat}
+.table td.bg2 {background:url(../images/table_bg4.png) repeat}
+.address {float:left;width:82px;padding-bottom:50px}
+.mngcnt li{line-height:1.5em;list-style:square url("../images/bullet.png");}
+.indent{margin-left: 2.5em;}
+
+/* ============================= footer ====================== */
+footer  {position:relative;line-height:20px}
+footer a {color:#08afee;text-decoration:none}
+footer a:hover {text-decoration:underline}
+footer span {color:#08afee}
+.footwrap{display:block;margin-left:30px;}
+#icons {padding:9px 0 0 89px}
+#icons li {float:left;padding-right:7px}
+/* Tooltips */
+.aToolTip  {background:url(../images/menu_bg_active.gif) top repeat-x; color:#fff;margin:0;padding:2px 10px 3px;font-size:11px;line-height:1.2em;position:absolute}
+.aToolTip .aToolTipContent  {position:relative;margin:0;padding:0}
+.col_2 {padding:35px 0 0 0;text-align:center}
+/* ============================= forms ============================= */
+#ContactForm {margin-top:-2px}
+#ContactForm .wrapper {overflow:inherit;min-height:35px}
+#ContactForm .textarea_box{min-height:130px}
+#ContactForm a {margin-left:20px;float:right;line-height:18px}
+#ContactForm .input  {margin:0;width:540px;height:18px;background:#fff;border:1px solid #e5e4e3;padding:5px 14px;color:#a6a6a6;font:14px Arial, Helvetica, sans-serif}
+#ContactForm textarea  {overflow:auto;margin:0;width:540px;height:112px;background:#fff;border:1px solid #e5e4e3;padding:5px 14px;color:#a6a6a6;font:14px Arial, Helvetica, sans-serif}
+
+.drwrap {display:block;float:left;width:200px;height:180px;margin-left:10px;}
+.drwrap img{height:112px;width:90px;margin-left:55px;}
+.info {display:block;float:left;width:200px;text-align:center;margin:5px 0;}
+.info div {margin-top:-5px;}
+
+.tabs .nav {padding-top:5px;}
+.tabs .nav div {padding-bottom:2px;float:left;margin-left:3px;}
+.tabs .nav div a {font-size:16px;letter-spacing:-0.5px;text-transform:uppercase;text-decoration:none;height:28px;line-height:26px;padding:0 10px 0 10px;color:#fff;background:#434343;}
+.tabs .nav div a span {display:block;width:100%;height:100%;background:#fff}
+.tabs .nav div a strong {font-weight:400}
+.tabs .nav div a:hover, .tabs .nav .selected a {color:#000;background:#eceef0;}
+.tab-content {padding-bottom:15px;text-align:center;}
+.tabcontent {width:630px;line-height:1;text-align:center;}
+.tabcontent figure{margin-left:20px;width:180px;}
+.left1{margin-left:0 !important;margin-right:15px;float:left}
+/* Lightbox image */
+.lightbox-image {position:relative;overflow:hidden;display:block;width:150px;}
+.lightbox-image img {position:relative;z-index:1;border:3px solid #434343;background:#fff;z-index:1;padding:3px;}
+.lightbox-image > span {display:block;position:absolute;left:28px;top:9px;width:100%;height:100%;background:url(../images/border.png) 0 0 no-repeat;z-index:2}
+
+.msg{text-align:center;height:150px;}
+.msg div{top:100px;position:relative; font-weight:bolder;}
+.button{position:relative;top:400px;left:0px;}
+.button span{background:#0495e6;border-radius:5px;padding:7px;width:60px;-moz-transition:0.2s all; -webkit-transition:0.2s all; transition:0.2s all;}
+.button span:hover{width:80px;padding:10px;font-size:16px; -moz-transition:0.2s all; -webkit-transition:0.2s all; transition:0.2s all;}
+.box2{ width:100%;height:500px;background:url(../images/content_bg.png) repeat;}

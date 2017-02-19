@@ -1,0 +1,8 @@
+.menu{display:block;font-size:18px;text-align:center;width:270px;background:#fff; height:50px;margin-top:3px; line-height:2.5;text-decoration:none;}
+.menu span{vertical-align:middle;color#434343;}
+.menu:hover {background:url(../images/menu_bg_active.gif) top repeat-x #038ee5;}
+.menu1{overflow:hidden;height:50px; -moz-transition:0.6s all; -webkit-transition:0.6s all; transition:0.6s all;}
+.menu1:hover { display:block;height:265px; -moz-transition:0.6s all; -webkit-transition:0.6s all; transition:0.6s all;}
+#submenu {display:block;}
+.subitem {width:270px;height:50px;margin-top:3px;width:270px;font-size:18px;line-height:2.5;text-decoration:none;text-align:center;background:#eceef0;color:#434343; }
+.subitem:hover{background:url(../images/menu_bg_active.gif) top repeat-x #038ee5;}
